@@ -27,21 +27,17 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # ===============================
 # 🔹 Telegram Bot Credentials
 # ===============================
-API_ID = 27445790
-API_HASH = "9ba9db1e32788364afd9757ed5d7f1f5"
-BOT_TOKEN = "7893773198:AAGlrAZ9pRZrZon-_zraNF8e6hK1u55UQeY"
+
 
 # ===============================
 # 🔹 Channel & Files
 # ===============================
-CHANNEL_LINK = "https://t.me/+EdiH5HKvpyUyMzNl"
-CHANNEL_ID = -1003009094032   # Dolby channel ID
-FOLDER_PATH = Path("myfiles") # Local folder path
+C
 
 # ===============================
 # 🔹 Owner/Admin
 # ===============================
-OWNER_ID = 8132041606
+
 
 approved_users = {}   # {user_id: expiry_date}
 pending_requests = {} # {user_id: requester_id}
